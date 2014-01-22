@@ -1,5 +1,5 @@
 %pylab 
-import numpy as np
+#import numpy as np
 
 f = open('Lumi.2760.csv')
 g = f.readlines()
